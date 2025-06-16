@@ -44,18 +44,18 @@
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=anteexxu.anteexxu)
+![](https://visitor-badge.laobi.icu/badge?page_id=nurrifqialhusaini.nurrifqialhusaini)
 # Github Stats
 <p float="left">
-    <img src="https://streak-stats.demolab.com?user=anteexxu&theme=dark" width="58%" />
-    <img src="https://github-profile-trophy.vercel.app/?username=anteexxu&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=anteexxu&theme=onedark" width="42%" />
+    <img src="https://streak-stats.demolab.com?user=nurrifqialhusaini&theme=dark" width="58%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nurrifqialhusaini&row=2&column=3&theme=onedark#1&margin-w=15&margin-h=15" width="50%">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=nurrifqialhusaini&theme=onedark" width="42%" />
 </p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anteexxu/anteexxu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nurrifqialhusaini/nurrifqialhusaini/output/snake.svg" alt="Snake animation" />
 
 ###
