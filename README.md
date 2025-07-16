@@ -1,4 +1,3 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # :raised_hand: Halo, I'm Kanteexu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 > My name is Kantee, I started to know computers since high school and since then my interest in programming has continued to grow. Most of my experience was gained while working as a freelancer, where I have completed more than 10 full-stack web projects with a year of professional experience. Currently, I focus on being a game developer on the FiveM platform with three years of professional experience. Now, I live a relaxed life while continuing to learn things that interest me — including understanding complex things, such as understanding women.
 <p align="center">
