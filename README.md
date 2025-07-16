@@ -13,9 +13,6 @@
     <a href="https://tiktok.com/@anteexxu" target="_blank">
         <img alt="Tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
-    <a href="https://youtube.com/@anteexxu" target="_blank">
-        <img alt="Youtube" src="https://img.shields.io/youtube/channel/subscribers/UCcPSKwUtyM7rMkzW3mrsShA?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
 </p>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tools and use
